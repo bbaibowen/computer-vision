@@ -1,1 +1,1 @@
-inception resnet v1（data/img2.jpg）
+[inception resnet v1](data/2.jpg)
