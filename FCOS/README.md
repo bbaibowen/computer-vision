@@ -1,2 +1,2 @@
 with resnet50
-I
+It's not perfect
